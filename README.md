@@ -20,32 +20,28 @@ Strong interest in Machine Learning & Data Science | Pursuing B.Tech (Data Scien
 
 ### Socials
 
-### Socials
-
 <p align="left">
+  <a href="https://www.github.com/Sarthak156" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>&nbsp;&nbsp;
 
-<a href="https://www.github.com/Sarthak156" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-</a>
+  <a href="https://www.gitlab.com/Sarthak156" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" />
+  </a>&nbsp;&nbsp;
 
-<a href="https://www.gitlab.com/Sarthak156" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" />
-</a>
+  <a href="https://www.linkedin.com/in/sarthak156" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/sarthak156" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-</a>
+  <a href="https://discord.com/users/sg156_" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a>&nbsp;&nbsp;
 
-<a href="https://discord.com/users/sg156_" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-</a>
-
-<a href="https://www.instagram.com/sarthak156_/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
-</a>
-
+  <a href="https://www.instagram.com/sarthak156_/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
 </p>
-  
+
 ### Badges
 
 
